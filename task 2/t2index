@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Google Ads helps you drive sales and grow your business">
+    <meta name="keywords" content="Google Ads, online advertising, digital marketing">
+    <meta name="author" content="Google">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Google Ads</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<header class="header container">
+    <nav class="main-nav">
+        <ul class="nav-left">
+            <li>
+                <img src="google.png" width="80" alt="Google Logo">
+            </li>
+            <li><a href="#">Where to start?</a></li>
+            <li><a href="#">Solutions</a></li>
+            <li><a href="#">Learning & Insights</a></li>
+            <li><a href="#">Get Support</a></li>
+        </ul>
+        <ul class="nav-right">
+            <li class="brand-name">Google Ads</li>
+            <li><a href="#">Goals</a></li>
+            <li><a href="#">How it works</a></li>
+            <li><a href="#">Cost</a></li>
+            <li><a href="#">Articles & Case Studies</a></li>
+            <li><a href="#">Expert Support</a></li>
+            <li>
+                <img src="phone.png" width="20" alt="Phone Icon">
+                1800 572 8309
+            </li>
+            <li><a href="#">Sign in</a></li>
+            <li><a href="#" class="btn-primary">Start now</a></li>
+        </ul>
+    </nav>
+</header>
+<section class="hero-section container">
+    <img src="hero.png" alt="Hero Image">
+    <h1>Drive sales with Google Ads</h1>
+    <p>Whatever your business goal, drive better results with Performance Max.</p>
+    <div class="button-group">
+        <button type="button" role="button">Start now</button>
+        <button type="button" role="button">Chat with Google Ads</button>
+    </div>
+</section>
+<section class="help-section container">
+    <img src="chat.png" width="50" alt="Chat Icon">
+    <h2>Need help with your first steps?</h2>
+    <h3>Chat with Google Ads</h3>
+    <p>Connect with our AI-powered chat and learn how Google Ads can help your business.</p>
+    <ul class="help-list">
+        <li>How do Google Ads work?</li>
+        <li>How can Google Ads help my business?</li>
+        <li>
+            <img src="chat.png" width="20" alt="Chat Icon">
+            Ask something else
+        </li>
+    </ul>
+</section>
+<section class="ad-types-section container">
+    <h2>Google Ads gives you many ways to be seen</h2>
+    <ul class="ad-type-list">
+        <li><img src="performance.png" width="20" alt=""> Performance Max</li>
+        <li><img src="search.png" width="20" alt=""> Search</li>
+        <li><img src="display.png" width="20" alt=""> Display</li>
+        <li><img src="shopping.png" width="20" alt=""> Shopping</li>
+        <li><img src="video.png" width="20" alt=""> Video</li>
+        <li><img src="app.png" width="20" alt=""> App</li>
+    </ul>
+    <img src="ads-preview.png" alt="Ads Preview">
+    <h3>Engage the eye</h3>
+    <p>
+        Build awareness with visually engaging ads across Gmail,
+        YouTube and mobile apps.
+    </p>
+    <a href="#">Explore Display Ads</a>
+</section>
+<section class="offers-section container">
+    <h2>Choose a sign-up offer to jumpstart your campaign</h2>
+    <article class="offer-cards">
+        <div class="offer-card">
+            <img src="offer.png" width="40" alt="Offer A">
+            <h3>Offer A</h3>
+            <p>₹20,000 in ad credit</p>
+            <p>Spend ₹20,000 in first 60 days</p>
+        </div>
+        <div class="offer-card">
+            <img src="offer.png" width="40" alt="Offer B">
+            <h3>Offer B</h3>
+            <p>₹40,000 in ad credit</p>
+            <p>Spend ₹60,000 in first 60 days</p>
+        </div>
+        <div class="offer-card">
+            <img src="offer.png" width="40" alt="Offer C">
+            <h3>Offer C</h3>
+            <p>₹60,000 in ad credit</p>
+            <p>Spend ₹1,20,000 in first 60 days</p>
+        </div>
+    </article>
+    <button type="button" role="button">Select an offer to continue</button>
+</section>
+<section class="goals-section container">
+    <h2>Achieve all your goals in one place</h2>
+    <ul class="goals-list">
+        <li><img src="leads.png" width="30" alt=""> Maximise leads</li>
+        <li><img src="sales.png" width="30" alt=""> Increase online sales</li>
+        <li><img src="store.png" width="30" alt=""> Drive store visits</li>
+        <li><img src="brand.png" width="30" alt=""> Grow brand awareness</li>
+        <li><img src="app-growth.png" width="30" alt=""> App growth</li>
+    </ul>
+</section>
+<section class="power-section container">
+    <h2>The power of Google for your business</h2>
+    <article class="power-cards">
+        <div class="power-card">
+            <img src="google-services.png" width="60" alt="">
+            <h3>Reach customers everywhere</h3>
+            <p>Across Search, YouTube, Maps and more.</p>
+        </div>
+        <div class="power-card">
+            <img src="analytics.png" width="60" alt="">
+            <h3>Track and optimise ROI</h3>
+            <p>Measure conversions easily.</p>
+        </div>
+        <div class="power-card">
+            <img src="budget.png" width="60" alt="">
+            <h3>Control your budget</h3>
+            <p>Adjust spending anytime.</p>
+        </div>
+    </article>
+</section>
+<section class="faq-section container">
+    <h2>Frequently asked questions</h2>
+    <p><strong>What types of Google Ads campaigns can I run?</strong></p>
+    <p>Search, Display, Shopping, Video, App and Performance Max.</p>
+    <p><strong>Does Google Ads work?</strong></p>
+    <p>Yes, it helps businesses reach customers online.</p>
+</section>
+<footer class="footer container">
+    <div class="footer-section">
+        <h4>Products</h4>
+        <p>Google Ads</p>
+        <p>Google Analytics</p>
+        <p>Google Marketing Platform</p>
+    </div>
+    <div class="footer-section">
+        <h4>Resources</h4>
+        <p>Help Center</p>
+        <p>Learning Center</p>
+        <p>Developers</p>
+    </div>
+    <div class="footer-section">
+        <h4>Company</h4>
+        <p>About Google</p>
+        <p>Careers</p>
+        <p>Privacy</p>
+    </div>
+    <p class="copyright">© 2026 Google</p>
+</footer>
+</body>
+</html>

@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Estate.io – Find and sell properties easily">
+    <meta name="keywords" content="real estate, house, property, buy, sell">
+    <meta name="author" content="Estate.io">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Estate.io</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="main-header">
+    <nav class="main-nav">
+        <h1 class="logo">estate.io</h1>
+        <a href="#">Home</a>
+        <a href="#">About Us</a>
+        <a href="#">Process</a>
+        <a href="#">Properties</a>
+        <a href="#">Reviews</a>
+        <a href="#">Sell House</a>
+        <a href="#">Find House</a>
+    </nav>
+</header>
+<section class="hero-section">
+    <img src="hero.png" alt="House banner image">
+    <h2>Find The House Of Your Dreams</h2>
+    <p>
+        Our service provides the best deals around the property business
+        to make our clients happy.
+    </p>
+    <form class="search-form">
+        <button type="button" role="button">Get Location</button>
+        <button type="button" role="button">Property Type</button>
+        <button type="submit" role="button">Search</button>
+    </form>
+    <ul class="hero-points">
+        <li>Get low taxes on all services</li>
+        <li>Only verified clients</li>
+    </ul>
+</section>
+<section class="about-section">
+    <article class="about-article">
+        <h2>We Help People To Find Best Opportunities</h2>
+        <p>
+            Estate.io is a worldwide leader across competitors.
+            Every year we get nominations in customer support and sales.
+        </p>
+        <ul>
+            <li>15 Years Experience</li>
+            <li>153 Sold Properties</li>
+            <li>52+ Gained Awards</li>
+        </ul>
+        <button type="button" role="button">Get Personal Discount</button>
+    </article>
+    <div class="about-images">
+        <img src="img1.png" alt="Property image 1">
+        <img src="img2.png" alt="Property image 2">
+        <img src="img3.png" alt="Property image 3">
+        <img src="img4.png" alt="Property image 4">
+    </div>
+</section>
+<section class="process-section">
+    <h2>Providing The Best Process Experience</h2>
+    <ol>
+        <li>
+            <strong>Briefing</strong>
+            <p>Our expert arrives at your property and starts analysis.</p>
+        </li>
+        <li>
+            <strong>Cost Estimate</strong>
+            <p>After a couple of sessions, we agree on the total cost.</p>
+        </li>
+        <li>
+            <strong>Contract Signing</strong>
+            <p>We make sure all conditions are met.</p>
+        </li>
+    </ol>
+    <img src="office.png" alt="Office meeting image">
+</section>
+<section class="properties-section">
+    <h2>Properties On Sale</h2>
+    <p>Check the best and featured properties selected by us.</p>
+
+    <div class="property-nav">
+        <a href="#">Commercial</a>
+        <a href="#">Industrial</a>
+        <a href="#">Agriculture</a>
+        <a href="#">Residential</a>
+    </div>
+    <div class="property-list">
+        <div class="property-card">
+            <img src="house1.png" alt="Flat image">
+            <h3>Flat near the central business center</h3>
+            <p>Compton, US</p>
+            <p>USD 230,190.00</p>
+            <button type="button" role="button">Request a Call</button>
+        </div>
+        <div class="property-card">
+            <img src="house2.png" alt="House image">
+            <h3>House near the sea area with pool</h3>
+            <p>Bavaria, Germany</p>
+            <p>USD 345,092.00</p>
+            <button type="button" role="button">Request a Call</button>
+        </div>
+    </div>
+</section>
+<section class="testimonial-section">
+    <h2>Word To Our Customers</h2>
+    <p>We really appreciate our customers.</p>
+    <div class="testimonial">
+        <h3>Estate.io Is The Best Platform</h3>
+        <p>It's fast and secure.</p>
+        <p><strong>Edgar Paulino</strong> – Property Seller</p>
+    </div>
+    <div class="testimonial">
+        <h3>I'm Happy I Found My Dream House</h3>
+        <p>Finally found my dream home.</p>
+        <p><strong>Eva Kiruchi</strong> – Customer</p>
+    </div>
+</section>
+<section class="newsletter-section">
+    <h2>Subscribe To Our Newsletter</h2>
+    <p>Get weekly top offers.</p>
+
+    <form>
+        <input type="email" name="email" placeholder="Enter your email address" required>
+        <button type="submit" role="button">Subscribe</button>
+    </form>
+</section>
+<footer class="main-footer container">
+    <h2>estate.io</h2>
+    <div class="footer-links">
+        <a href="#">Home</a>
+        <a href="#">About Us</a>
+        <a href="#">Process</a>
+        <a href="#">Properties</a>
+        <a href="#">Reviews</a>
+    </div>
+    <div class="social-icons">
+        <img src="threads.png" alt="Threads icon">
+        <img src="instagram.png" alt="Instagram icon">
+    </div>
+</footer>
+</body>
+</html>
